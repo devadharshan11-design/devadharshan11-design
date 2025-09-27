@@ -1,9 +1,3 @@
-A passionate **Automation & Robotics Engineering** undergraduate  and an **AI/ML enthusiast**  who builds real-time control systems and AI-driven decision pipelines.
-
-## 🌟 About Me:
-* 🎓 I'm currently pursuing a B.Tech in Automation & Robotics Engineering at Amrita Vishwa Vidyapeetham.
-* 💻 I have hands-on expertise with **microcontrollers, PLCs, sensors, and simulation tools**.
-* 🤖 My primary interests are **robotics, AI, machine learning, and industrial automation**.
 * 🚀 I'm actively working on Edge AI Model Compression for **YOLOv8**  and publishing papers on **Adaptive PID Control**  and **Reinforcement Learning**.
 * 📧 How to reach me: devadharshan11@gmail.com 
 
