@@ -1,25 +1,22 @@
-# 1. Create the README.md file using a 'here document'
-cat > README.md << EOF
-# Hi 👋, I'm Devadharshan D
-[cite_start]A passionate **Automation & Robotics Engineering** undergraduate [cite: 4] [cite_start]and an **AI/ML enthusiast** [cite: 4, 5] who builds real-time control systems and AI-driven decision pipelines.
+A passionate **Automation & Robotics Engineering** undergraduate [cite: 4] and an **AI/ML enthusiast** [cite: 4, 5] who builds real-time control systems and AI-driven decision pipelines.
 
 ## 🌟 About Me:
-* [cite_start]🎓 I'm currently pursuing a B.Tech in Automation & Robotics Engineering at Amrita Vishwa Vidyapeetham[cite: 8].
-* [cite_start]💻 I have hands-on expertise with **microcontrollers, PLCs, sensors, and simulation tools**[cite: 6].
-* [cite_start]🤖 My primary interests are **robotics, AI, machine learning, and industrial automation**[cite: 4].
-* [cite_start]🚀 I'm actively working on Edge AI Model Compression for **YOLOv8** [cite: 40] [cite_start]and publishing papers on **Adaptive PID Control** [cite: 43] [cite_start]and **Reinforcement Learning**[cite: 42].
-* [cite_start]📧 How to reach me: devadharshan11@gmail.com [cite: 2]
+* 🎓 I'm currently pursuing a B.Tech in Automation & Robotics Engineering at Amrita Vishwa Vidyapeetham[cite: 8].
+* 💻 I have hands-on expertise with **microcontrollers, PLCs, sensors, and simulation tools**[cite: 6].
+* 🤖 My primary interests are **robotics, AI, machine learning, and industrial automation**[cite: 4].
+* 🚀 I'm actively working on Edge AI Model Compression for **YOLOv8** [cite: 40] and publishing papers on **Adaptive PID Control** [cite: 43] and **Reinforcement Learning**[cite: 42].
+* 📧 How to reach me: devadharshan11@gmail.com [cite: 2]
 
 ---
 
 ## 🔗 Socials:
-[cite_start][<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/devadharshan-d-717294238) [cite: 2]
-[cite_start][<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/devadharshan11-design) [cite: 2]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/devadharshan-d-717294238) [cite: 2]
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/devadharshan11-design) [cite: 2]
 
 ---
 
 ## 🛠️ Tech Stack:
-[cite_start]*(Based on Skills and Projects from Resume [cite: 5, 47, 49])*
+*(Based on Skills and Projects from Resume [cite: 5, 47, 49])*
 
 ### Languages & Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -48,22 +45,22 @@ cat > README.md << EOF
 ## ⚙️ Key Projects & Research
 
 ### Real-Time Lane Assist with Adaptive PID (Computer Vision)
-> [cite_start]Achieved **93% accuracy** and **0.99s correction delay** in CARLA simulator; paper accepted for presentation at an IEEE conference[cite: 43, 44].
+> Achieved **93% accuracy** and **0.99s correction delay** in CARLA simulator; paper accepted for presentation at an IEEE conference[cite: 43, 44].
 
 ### Edge AI Model Compression for YOLOv8
-> [cite_start]Engineered compression for deploying **YOLOv8n on Raspberry Pi 5**, achieving a **34% inference speedup** (4.13 FPS) while maintaining 99.7% accuracy[cite: 40].
+> Engineered compression for deploying **YOLOv8n on Raspberry Pi 5**, achieving a **34% inference speedup** (4.13 FPS) while maintaining 99.7% accuracy[cite: 40].
 
 ### PLC-Based Adaptive Smart Traffic Control
-> [cite_start]Integrated **YOLOv8 with FESTO PLC** for real-time traffic management, achieving **<1s response time** and 90%+ accuracy[cite: 31, 32].
+> Integrated **YOLOv8 with FESTO PLC** for real-time traffic management, achieving **<1s response time** and 90%+ accuracy[cite: 31, 32].
 
 ---
 
 ## 📈 GitHub Stats:
-*(Replace `[YOUR-GITHUB-USERNAME]` with your actual username)*
+*(Replace `devadharshan11-design` with your actual username)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=vue" alt="Devadharshan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=vue" alt="Devadharshan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devadharshan11-design&show_icons=true&theme=vue" alt="Devadharshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadharshan11-design&layout=compact&theme=vue" alt="Devadharshan's Top Languages" />
 </p>
 
 ---
