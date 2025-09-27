@@ -1,22 +1,22 @@
-A passionate **Automation & Robotics Engineering** undergraduate [cite: 4] and an **AI/ML enthusiast** [cite: 4, 5] who builds real-time control systems and AI-driven decision pipelines.
+A passionate **Automation & Robotics Engineering** undergraduate  and an **AI/ML enthusiast**  who builds real-time control systems and AI-driven decision pipelines.
 
 ## 🌟 About Me:
-* 🎓 I'm currently pursuing a B.Tech in Automation & Robotics Engineering at Amrita Vishwa Vidyapeetham[cite: 8].
-* 💻 I have hands-on expertise with **microcontrollers, PLCs, sensors, and simulation tools**[cite: 6].
-* 🤖 My primary interests are **robotics, AI, machine learning, and industrial automation**[cite: 4].
-* 🚀 I'm actively working on Edge AI Model Compression for **YOLOv8** [cite: 40] and publishing papers on **Adaptive PID Control** [cite: 43] and **Reinforcement Learning**[cite: 42].
-* 📧 How to reach me: devadharshan11@gmail.com [cite: 2]
+* 🎓 I'm currently pursuing a B.Tech in Automation & Robotics Engineering at Amrita Vishwa Vidyapeetham.
+* 💻 I have hands-on expertise with **microcontrollers, PLCs, sensors, and simulation tools**.
+* 🤖 My primary interests are **robotics, AI, machine learning, and industrial automation**.
+* 🚀 I'm actively working on Edge AI Model Compression for **YOLOv8**  and publishing papers on **Adaptive PID Control**  and **Reinforcement Learning**.
+* 📧 How to reach me: devadharshan11@gmail.com 
 
 ---
 
 ## 🔗 Socials:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/devadharshan-d-717294238) [cite: 2]
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/devadharshan11-design) [cite: 2]
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/devadharshan-d-717294238) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/devadharshan11-design) 
 
 ---
 
 ## 🛠️ Tech Stack:
-*(Based on Skills and Projects from Resume [cite: 5, 47, 49])*
+*(Based on Skills and Projects from Resume)*
 
 ### Languages & Data
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -45,13 +45,13 @@ A passionate **Automation & Robotics Engineering** undergraduate [cite: 4] and a
 ## ⚙️ Key Projects & Research
 
 ### Real-Time Lane Assist with Adaptive PID (Computer Vision)
-> Achieved **93% accuracy** and **0.99s correction delay** in CARLA simulator; paper accepted for presentation at an IEEE conference[cite: 43, 44].
+> Achieved **93% accuracy** and **0.99s correction delay** in CARLA simulator; paper accepted for presentation at an IEEE conference.
 
 ### Edge AI Model Compression for YOLOv8
-> Engineered compression for deploying **YOLOv8n on Raspberry Pi 5**, achieving a **34% inference speedup** (4.13 FPS) while maintaining 99.7% accuracy[cite: 40].
+> Engineered compression for deploying **YOLOv8n on Raspberry Pi 5**, achieving a **34% inference speedup** (4.13 FPS) while maintaining 99.7% accuracy.
 
 ### PLC-Based Adaptive Smart Traffic Control
-> Integrated **YOLOv8 with FESTO PLC** for real-time traffic management, achieving **<1s response time** and 90%+ accuracy[cite: 31, 32].
+> Integrated **YOLOv8 with FESTO PLC** for real-time traffic management, achieving **<1s response time** and 90%+ accuracy.
 
 ---
 
